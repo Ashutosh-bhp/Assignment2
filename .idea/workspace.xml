@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603d8192-0180-48f6-9c4b-b8b800fd16f1" name="Changes" comment="second problem">
-      <change afterPath="$PROJECT_DIR$/Problem_3/Problem_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/ArrayListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/LinkedListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/StudentRecordManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/VectorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_3/src/studentOperations.java" afterDir="false" />
+    <list default="true" id="603d8192-0180-48f6-9c4b-b8b800fd16f1" name="Changes" comment="Third Problem">
+      <change afterPath="$PROJECT_DIR$/Problem_4/Problem_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/EmployeeOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/EmployeeRecordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/HashMapManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/HashTableManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/TreeMapManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem_2/Problem_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_2/Problem_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/BankingSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/BankingSystem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,23 +60,39 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BankingSystem.executor": "Run",
+    "Application.EmployeeRecordManager.executor": "Run",
+    "Application.JDBC_demo.executor": "Run",
     "Application.StudentRecordManager.executor": "Run",
     "Application.tokenValidation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HP/OneDrive/Desktop/java/Assignment2",
+    "last_opened_file_path": "D:/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentRecordManager">
+  <component name="RunManager" selected="Application.EmployeeRecordManager">
     <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankingSystem" />
       <module name="Assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRecordManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeRecordManager" />
+      <module name="Problem_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC_demo" />
+      <module name="Problem_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,6 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeRecordManager" />
+        <item itemvalue="Application.JDBC_demo" />
         <item itemvalue="Application.StudentRecordManager" />
         <item itemvalue="Application.tokenValidation" />
         <item itemvalue="Application.BankingSystem" />
@@ -147,12 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766930514824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Problem">
+      <option name="closed" value="true" />
+      <created>1767506607357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767506607357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final code" />
     <MESSAGE value="second problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="second problem" />
+    <MESSAGE value="Third Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Problem" />
   </component>
 </project>
